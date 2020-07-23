@@ -1,0 +1,142 @@
+                         Hello
+
+             Welcome to the game of sticks...
+
+How do you want to play the game?
+
+1) Against AI ?
+      OR
+2) See a game of AI vs. AI ? ...
+---->1
+Enter the number of sticks : 13
+
+Player 1 : AI
+Player 2 : You
+Choosing Starting player randomly...
+Player starting is 2 .
+Your Turn Initially
+Pick between 1 to 3 sticks : 3
+Training AI please wait...
+...
+...
+...
+------- 10 sticks left -------
+AI's Turn
+AI picked 1 sticks
+------- 9 sticks left -------
+Your Turn
+Pick between 1 to 3 sticks : 1
+------- 8 sticks left -------
+AI's Turn
+AI picked 3 sticks
+------- 5 sticks left -------
+Your Turn
+Pick between 1 to 3 sticks : 1
+------- 4 sticks left -------
+AI's Turn
+AI picked 3 sticks
+------- 1 sticks left -------
+Your Turn
+Pick between 1 to 3 sticks : 1
+Player 1 wins...
+Press any key to continue . . .
+
+
+
+
+-------------------------------------------------------------------
+
+
+
+                         Hello
+
+             Welcome to the game of sticks...
+
+How do you want to play the game?
+
+1) Against AI ?
+      OR
+2) See a game of AI vs. AI ? ...
+---->2
+Enter the number of sticks : 27
+
+Player 1 : AI 1
+Player 2 : AI 2
+Choosing Starting player randomly...
+Player starting is 2 .
+------- 27 sticks left -------
+AI 2's Turn Initially
+Training AI please wait...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+AI 2 picked 2 sticks
+Training AI please wait...
+...
+...
+...
+...
+...
+...
+...
+...
+------- 25 sticks left -------
+Press any key to continue . . .
+AI 1's Turn
+AI 1 picked 1 sticks
+------- 24 sticks left -------
+Press any key to continue . . .
+AI 2's Turn
+AI 2 picked 3 sticks
+------- 21 sticks left -------
+Press any key to continue . . .
+AI 1's Turn
+AI 1 picked 1 sticks
+------- 20 sticks left -------
+Press any key to continue . . .
+AI 2's Turn
+AI 2 picked 3 sticks
+------- 17 sticks left -------
+Press any key to continue . . .
+AI 1's Turn
+AI 1 picked 1 sticks
+------- 16 sticks left -------
+Press any key to continue . . .
+AI 2's Turn
+AI 2 picked 3 sticks
+------- 13 sticks left -------
+Press any key to continue . . .
+AI 1's Turn
+AI 1 picked 1 sticks
+------- 12 sticks left -------
+Press any key to continue . . .
+AI 2's Turn
+AI 2 picked 3 sticks
+------- 9 sticks left -------
+Press any key to continue . . .
+AI 1's Turn
+AI 1 picked 1 sticks
+------- 8 sticks left -------
+Press any key to continue . . .
+AI 2's Turn
+AI 2 picked 3 sticks
+------- 5 sticks left -------
+Press any key to continue . . .
+AI 1's Turn
+AI 1 picked 1 sticks
+------- 4 sticks left -------
+Press any key to continue . . .
+AI 2's Turn
+AI 2 picked 3 sticks
+------- 1 sticks left -------
+Press any key to continue . . .
+AI 1's Turn
+AI 1 picked 1 sticks
+Player 2 wins...
+Press any key to continue . . .
